@@ -10,4 +10,8 @@ Steps:
 3. Run 'npm install'
 4. Run 'install mocha' ..... This is test framework
 5. Initialize this project as Github project. 'cd .. && git init blogg-express' 
-6. 
+6. Add all the files ... 'git add .' 
+7. Make initail commit - git commit -m 'Initail commit'
+8. git remote add origin https://github.com/dinesh19aug/node-blog-express
+9. git push --set-upstream origin master
+
